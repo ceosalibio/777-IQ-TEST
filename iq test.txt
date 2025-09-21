@@ -1,0 +1,32 @@
+Question 1
+Answer: 4
+
+Reasoning:
+Each row in the grid progresses from simple to complex line patterns. The bottom row starts with a horizontal line, followed by a diagonal (↙). To continue the pattern, the final cell should combine both diagonal directions, forming an "X". This mirrors the structure of the middle row, which ends with intersecting diagonals. Therefore, Option 4 is the most consistent with the observed logic.
+
+
+Question 2
+Answer: 4
+
+Reasoning:
+The bottom row shows a progression in size: small rectangle → medium square → large shape. The third column also contains large shapes: large triangle → large circle → ?. To maintain both the size and shape variation patterns, the missing piece should be a large diamond. This satisfies the logic of both the row and column sequences.
+
+Question 3
+Answer: 1
+
+Reasoning:
+Each row in the grid follows a pattern where the first two shapes combine to form the third. In the bottom row, the middle cell contains diagonal shading, and the right cell is a square with vertical bars. This suggests the missing left cell provides the base shape — a plain square — while the middle cell contributes the texture. Therefore, Option 1 is the correct answer.
+
+Question 4
+Answer: 2
+
+Reasoning:
+Each row in the grid follows a consistent pattern: the central shape progresses from square → circle → horizontal line, and the number of filled corner dots increases by one. In the bottom row, the first two cells have 0 and 1 filled dots respectively, with shapes square and circle. Therefore, the missing cell should contain a horizontal line with 2 filled dots. Option 2 fits this pattern.
+
+
+Question 5
+Answer: 1
+
+Reasoning:
+Each row and column in the grid follows a rotational or diagonal symmetry between the positions of the black circle and the outlined square. In the bottom row, the left and right cells place the circle and square in opposite corners. To maintain this pattern, the middle cell should contain a circle in the bottom-right and a square in the top-left. Option 1 fits this logic.
+
